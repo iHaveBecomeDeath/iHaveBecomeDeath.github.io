@@ -1,0 +1,464 @@
+{
+  "basics": {
+    "name": "Kalle Wallin",
+    "label": "Software ninja at tretton37",
+    "picture": "http://tretton37img.blob.core.windows.net/ninja-portrait/kalle-wallin-small",
+    "email": "kalle.wallin@gmail.com",
+    "phone": "0046706238474",
+    "website": "www.linkedin.com/in/kallewallin, metalproject.net, pandemonium-metal.com",
+    "summary": "I have been programming since I was a kid, starting with early home computers and trying to make my own games. In the late nineties I started developing software professionally and have been doing that ever since. I have also been involved in music production and have been on the road and recorded albums with a few bands. Using a lot of different tools, platforms and languages over the years have taught me a great deal about the underlying concepts of technology and how to utilize them. Working in different industries and with a lot of different people has shown me that no language, hardware or software platform is as important as the fact that they are all tools used in creating something that is useful and worthwhile to people. I am an agile and attentive software problem solver who always strives to challenge myself and learn new things, set high standards and make sure I have fun along the way.",
+    "location": {
+      "address": "Eksholmsvägen 341",
+      "postalCode": "233 76",
+      "city": "Klågerup",
+      "countryCode": "SE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "shipsablaze",
+        "url": "https://twitter.com/Shipsablaze"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "silverskin",
+        "url": "http://stackoverflow.com/users/177058/silverskin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Avensia / Lyko",
+      "position": "Full stack web developer (consultant)",
+      "website": "www.lyko.se",
+      "startDate": "2016-05-01",
+      "summary": "Lyko - winner of best nordic web site, and E-commerce site of the year 2016. E-commerce with EpiServer, ASP.NET MVC, React.Js, Redux, TypeScript and Webpack. A blazingly fast site with offline support and mobile focus. As part of a team consisting of both Avensia employees and external consultants I worked on both the React and Typescript parts and the backbone integrations with other systems (payment providers, mailing lists, video and search providers etc), and did my best to inject energy and ideas in the project. A good project with good people, and excellent results to boot!",
+      "highlights": [
+        "Working with talented people on a modern tech stack",
+        "Winning E-commerce of the year award"
+      ]
+    },
+    {
+      "company": "Securitas Sverige AB",
+      "position": ".Net Developer/Team Lead (Contract)",
+      "website": "www.securitas.se",
+      "startDate": "2014-09-01",
+      "endDate": "2016-05-01",
+      "summary": "New development, upgrades and maintenance of web applications for business use (finance, HR, project management, inventory and stock taking). Mentoring and systems architecture.",
+      "highlights": [
+        "2014 - In-house systems: Sole developer, architect, requirements analyst and advisor on development of and integration between various business centric systems including invoicing, reporting and document generation. I was involved in all parts of the applications, from SQL databases to .Net-services, MVC/Web Api sites to integrations with external and internal systems - whereof many legacy - automated testing, CI setup, deployment scenarios and backup strategies.ASP.NET MVC 5, C#, SQL Server, WebApi, Autofac, HTML5, CSS3, Bootstrap, TeamCity, TFS, NodeJS, Git, Javascript, jQuery, FakeItEasy, NUnit, Grunt, ExpressJS",
+        "2015 - Inventory application: Mentor and lead on an internal web solution for inventory of items, to be used throughout the organisation by many users on different skill levels and organizational levels. I mentored and coached the team while keeping the project going forward and eventually delivering a quality mobile first web with a database-centric backend..NET, C#, MVC, WebApi, TDD, NUnit, SQL Server, Git, TFS, TeamCity, Javascript, HTML, jQuery, NPM, Grunt",
+        "2015 - Invoicing application: Tech lead and developer for a team constructing a business critical web application for invoicing. Many integration points for data coming in and going out, price and currency calculations, error handling and input verification, powerful and flexible search engine with strict performance requirements, access control, automated services running data migrations, branching and maintenance of server environments, continuous delivery for a project in production and lots of requirement and usability discussions with the client..NET, C#, WebApi, TDD, NUnit, SQL Server, Git, TeamCity, Bootstrap, Knockout, Windows Services, jQuery, Javascript, HTML, FakeItEasy, Grunt, NPM"
+      ]
+    },
+    {
+      "company": "Sony Mobile Communications",
+      "position": "Web Developer (Contract)",
+      "website": "www.sonymobile.se",
+      "startDate": "2013-11-01",
+      "endDate": "2014-03-01",
+      "summary": "Web development and coaching in web technologies and javascript frameworks. HTML5, CSS3, Javascript, AngularJS, Knockout, Grunt, NodeJS, Gitlab, Linux, Scrum.",
+      "highlights": [
+        "Firefox OS: As part of a big team with both Sony employees and consultants from different companies, I had an exciting and challenging time doing development and coaching in web technologies and JavaScript frameworks. I worked hard on trying to keep team constellations working together and moving forward, helping and learning from each other. I held demo presentations for interested parties, was involved in the product roadmap and feature prioritization, and my previous experience with linux came in handy here as well. Since I went on parental leave I did not stay for the full duration of the project, but it was a good experience!"
+      ]
+    },
+    {
+      "company": "tretton37 AB",
+      "position": "Developer, developer, developer",
+      "website": "tretton37.com",
+      "startDate": "2013-01-01",
+      "summary": "Solving real world problems using tools in computer land!I am also sometimes a mentor and techical interviewer.",
+      "highlights": []
+    },
+    {
+      "company": "MayWePlay",
+      "position": "Technical Initiator / Co-Owner",
+      "website": "www.mayweplay.com",
+      "startDate": "2013-01-01",
+      "summary": "Part of the initial group that started this service aimed to connect music teachers with students. I weighed options, pointed in directions, set up test and staging environments and built prototypes, estimated time and costs and oversaw the development of the service. AWS, Drupal.",
+      "highlights": []
+    },
+    {
+      "company": "Kodexe",
+      "position": "Systems Developer",
+      "website": "www.kodexe.se",
+      "startDate": "2009-06-01",
+      "endDate": "2013-01-01",
+      "summary": "Agile development of web sites, e-commerce, mobile apps and CMS systems.C#, ASP.NET MVC, LINQ, SQL, Entity Framework,Sharepoint, Sitecore, EPiServer, NopCommerce, Umbraco,Windows Azure, Android, iOS, MonoDevelop, Scrum.",
+      "highlights": [
+        "2009 - Auction site: This was the biggest project I worked on at Kodexe. A team of approximately five, sometimes more, sometimes fewer, set out to build an online auction platform. It was used for franchising by many different clients. mainly newspapers, around the world. In close collaboration with the client we designed and built this system from the ground up. As more and more customers came on board we modified and upgraded, added features, tweaked the server hardware, integrated different payment solutions and so on, until finally it was time to move to the cloud in 2012. Challenges varied over the years, from building the right thing in a new market segment, to keeping performance at peak level, adding features without detracting from the user experience, finding payment solutions that were reliable in different countries, and finally moving to Azure - a major challenge both architecturally and development-wise, but well worth it in the end. I also played a substantial role in the requirements, planning and development of the mobile companion app for this product.C#, ASP.NET MVC, LINQ2SQL, SQL Server, IIS, TeamCity, SVN, Scrum, PDFLib, RSS, Imagemagick, Virtualization, Load balancing, Stress testing, HTML, jQuery, Dibs, Paypal, Azure, Intel XDK, Phonegap",
+        "2010 - Apsis Episerver integration: Part of a team developing an EpiServer integration for Apsis' well known and powerful newsletter system, to enable more of their customers to easily send and manage newsletters, track statistics etc. Developed in an agile fashion in close collaboration with the client.EPiServer , C# , ASP.NET , Scrum",
+        "2010 - JA Sundqvist: JA Sundqvist is a supplier and retailer of kitchenware that is mostly recognized by other retailers. I was part of an in-house team of developers and designers building a brand new site - both intended to increase their visibility and to display their product range to consumers, and also to give them a new way of communicating with their retailers. Built using the Sitecore CMS, selected for the features available and for ease of maintenance (.Net), coupled with newsletters, a blog, RSS feeds and data export/import between a couple of different systems.Sitecore, .NET, ASP.NET, Javascript, jQuery, HTML, SQL, Scrum",
+        "2011 - Koenigsegg lifestyle shop: A lifestyle focused merchandise shop for the exclusive sports car manufacturer Koenigsegg, paired with their new web site and blog using the same design, intended to help strengthen their brand and increase their marketing visibility. As lead dev I had to take into account rigorous design requirements, exact wording and positioning of text, planning and demo meetings with the client and keeping everything in sync with the regular company website that was built by another company on another platform.Nop Commerce, .NET, C#, ASP.NET, Scrum",
+        "2011 - Volvo iPad app: Part of a small team constructing iPad and iPhone apps presenting new car models, to be used mainly in mess halls but also available through the app store. We helped a large consulting firm build this graphics heavy application using .Net technology. Using mono tools simplified the development process for us, but we still had to resort to Apple tools quite often. The familiarity of .Net combined with getting more familiar with other tools was a learning opportunity the team appreciated, and the development was well executed and the product delivered on schedule.Monotouch, Monodevelop, .NET, iOS, Xcode",
+        "2012 - Auction site Azure migration: Migration of the online auction platform we previously built for this client from a traditionally hosted environment into the cloud. This kind of system was perfectly suited for running decentralized in the cloud and only using resources when a site was actually active. We took help from an Azure MVP and took great advantage of all the new technology at hand, and also optimized the database calls to a great extent. I was one of two developers on this.Windows Azure, Sql Azure, Azure Queue, Azure Storage, C#, .NET, IIS, Scrum, TeamCity, SVN, Entity Framework"
+      ]
+    },
+    {
+      "company": "Online i Lund",
+      "position": "Systems Developer (.NET)",
+      "website": "http://onlinesverige.se/",
+      "startDate": "2009-01-01",
+      "endDate": "2009-06-01",
+      "summary": "Sole developer on migration from VB6 to .Net (C#) and restructuring of the automatic dialing and sales support application used by the telemarketers in-house.C#, Windows, WPF, .NET, SQL Server, VB6, COM+, Team Foundation Server",
+      "highlights": []
+    },
+    {
+      "company": "Försäkringskassan",
+      "position": "Social Insurance Agency Officer",
+      "website": "www.fk.se",
+      "startDate": "2005-05-01",
+      "endDate": "2007-12-01",
+      "summary": "After administering dental funds for the elderly for a while, my responsibilities quickly increased and I constructed and maintained statistics applications and tools for measuring productivity, as well as a knowledge base-system for regulations and practices. Also user support.Part-time job during university studies.MS Excel, VBA",
+      "highlights": []
+    },
+    {
+      "company": "Online Telemarketing",
+      "position": "Systems Developer",
+      "website": "http://onlinesverige.se/",
+      "startDate": "1999-10-01",
+      "endDate": "2002-12-01",
+      "summary": "I was involved in green field development of various kinds of in-house systems for use in and around telemarketing. Automated dialing, salary calculation and automated printing via PDF, membership and subscriber systems, customer databases, stock and warehouse management systems, e-commerce, OCR scanning, order processing, large scale address label printing, server maintenance, user support, installation and network administration, company websites, server administration.Windows (95, 98, NT, 2000), VB6, COM+, ASP, SQL Server, C++, HTML, Active Directory, Adobe Acrobat, Linux, Norton Ghost, Extreme Programming, Visual SourceSafe, Access Database, .Net beta release",
+      "highlights": []
+    },
+    {
+      "company": "Orthogon",
+      "position": "Consultant Web Developer",
+      "website": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-12-31",
+      "summary": "During my studies in informatics I did part time work here, ranging from Asp to PHP, from travel booking sites to recruiting agencies. This was in a small consulting firm that had varying assignments, but most were web-related..NET, ASP.NET, Classic ASP, PHP, MySQL, HTML, Javascript, Access Database",
+      "highlights": []
+    },
+    {
+      "company": "Berno Studio",
+      "position": "Assistant Sound Engineer",
+      "website": "www.bernostudio.com",
+      "startDate": "2004-01-01",
+      "endDate": "2005-01-01",
+      "summary": "During the time I worked as an audio engineer in this studio I played a rather significant role in migrating their recording base from an analog system to digital tools. Using Pro Tools and an advanced set up combining the best of analog recording tools, A/D and D/A conversion, and digital storage and editing, the studio became more cost efficient and less reliant on old machinery, while maintaining their established high level of recording and mixing quality.I also did work as a recording and mixing engineer for metal bands, punk bands, solo artists and singer/songwriters.",
+      "highlights": [
+        "A great recording studio to work and record in",
+        "Digital migration to Pro Tools was exciting",
+        "I met and learned from many talented artists from various genres, big band, jazz, rock, punk, metal"
+      ]
+    },
+    {
+      "company": "EyeCom",
+      "position": "Web Developer",
+      "website": "www.eyecom.se",
+      "startDate": "1999-01-01",
+      "endDate": "1999-12-31",
+      "summary": "Web development using ASP, COM+ and SQL Server. Building, repairing and selling computers.",
+      "highlights": []
+    },
+    {
+      "company": "Region Skåne",
+      "position": "Kontorist / Office worker",
+      "website": "www.skane.se",
+      "startDate": "1996-01-01",
+      "endDate": "1998-12-31",
+      "summary": "Part time while I was in school I worked as an office helper at a few different places in the psychiatric sector. When I was not sorting papers, typing memos or calculating statistics I helped develop some applications that were used for years afterwards for calculating self-assessment scores, analyzing statistics and administrating the massive archives of this subset of the healthcare administration.MS Excel, Chipmunk Basic, Applescript, Statistics, Document management",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kulturföreningen K-märkt",
+      "position": "Sound technician",
+      "website": "",
+      "startDate": "2012-12-23",
+      "summary": "Christmas concerts to support the homeless in Lund, Sweden.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lund University",
+      "area": "Informatics",
+      "studyType": "Bachelor",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "gpa": "",
+      "courses": [
+        "Informatik 1-20 (INF610)",
+        "Informatik Fortsättning (INFA24)",
+        "Modern systemutveckling med .Net-arkitektur (INFB24)",
+        "Verksamhet och IS (INFA22)",
+        "Informationssäkerhet (INFC05)"
+      ]
+    },
+    {
+      "institution": "Komvux",
+      "area": "",
+      "studyType": "",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "gpa": "",
+      "courses": [
+        "Programming Basic/Pascal, DA208",
+        "Pre-Calculus/Calculus (Matematik C, MA1203)",
+        "Psychology (Psykologi, PS200)"
+      ]
+    },
+    {
+      "institution": "Vipeholms Gymnasieskola",
+      "area": "",
+      "studyType": "",
+      "startDate": "1995-01-01",
+      "endDate": "1998-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LINQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grunt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Entity Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WCF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "EPiServer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "T-SQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Limited working"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited working"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": []
+    },
+    {
+      "name": "Electronics",
+      "keywords": []
+    },
+    {
+      "name": "Games",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "keywords": []
+    },
+    {
+      "name": "Usability research",
+      "keywords": []
+    },
+    {
+      "name": "International travel",
+      "keywords": []
+    },
+    {
+      "name": "Reading novels",
+      "keywords": []
+    },
+    {
+      "name": "Playing guitar",
+      "keywords": []
+    },
+    {
+      "name": "Home brewing",
+      "keywords": []
+    },
+    {
+      "name": "Organic farming",
+      "keywords": []
+    },
+    {
+      "name": "House remodeling",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
